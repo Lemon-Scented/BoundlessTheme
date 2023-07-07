@@ -161,6 +161,9 @@
       },
       "product-template": {
         "type": "product-template",
+        "custom_css": [
+          ".product__photo {max-width: 500px; margin: 0px auto; float: none;}"
+        ],
         "settings": {
           "skip_first_product_image": false,
           "product_image_type": "portrait",
