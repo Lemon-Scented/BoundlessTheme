@@ -162,7 +162,7 @@
       "product-template": {
         "type": "product-template",
         "custom_css": [
-          ".product__photo {max-width: 500px; margin: 0px auto; float: none;}"
+          ".product__photo {max-width: 400px; margin: 0px auto; float: auto;}"
         ],
         "settings": {
           "skip_first_product_image": false,
