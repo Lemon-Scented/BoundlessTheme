@@ -54,7 +54,7 @@
           "text": "Announce something here",
           "link": "",
           "color_bg": "#dbc18b",
-          "color_text": "#fff"
+          "color_text": "#ffffff"
         }
       },
       "header": {
@@ -136,7 +136,7 @@
         "type": "newsletter-signup",
         "settings": {
           "heading": "Subscribe to our newsletter",
-          "subheading": "A short sentence describing what someone will receive by subscribing"
+          "subheading": "Stay up to date on all the latest Reject gear!"
         }
       },
       "sidebar-menu": {
