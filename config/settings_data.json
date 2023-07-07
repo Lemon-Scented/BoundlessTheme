@@ -112,7 +112,7 @@
           "rich-text-0": {
             "type": "text",
             "settings": {
-              "home_page_richtext": "<p><strong>Welcome Rejects<\/strong><\/p>"
+              "home_page_richtext": "<p><strong>Featured Products<\/strong><\/p>"
             }
           }
         },
