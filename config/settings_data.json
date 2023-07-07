@@ -60,6 +60,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/Rejects_Script_Logo_Black_2cbae14a-0aff-44ac-9c62-71adb8c46ee9.svg",
           "logo_width": "180"
         }
       },
@@ -161,6 +162,11 @@
       "product-template": {
         "type": "product-template",
         "settings": {
+          "skip_first_product_image": false,
+          "product_image_type": "portrait",
+          "show_vendor": false,
+          "show_quantity_selector": false,
+          "social_sharing_products": true
         }
       },
       "collection-template": {
@@ -168,7 +174,20 @@
         "settings": {
           "product_image_type": "portrait",
           "product_image_size": "medium",
-          "product_image_spacing": false
+          "product_image_spacing": false,
+          "vendor_enable": false,
+          "collection_sort_enable": false,
+          "collection_tags_enable": false,
+          "pagination_type": "numbers"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "collection_image_type": "portrait",
+          "collection_image_size": "medium"
         }
       }
     },
